@@ -56,6 +56,21 @@
  
 *[Library Topic - Ruby](https://teamtreehouse.com/library/topic:ruby)
 
+*Course to Complete - PHP*
+* [ ] ~~How to Make a Website~~
+* [ ] PHP Basics
+* [ ] PHP Functions
+* [ ] Build a Basic PHP Website
+* [ ] Object-Oriented PHP Basics
+* [ ] Building Websites with PHP
+* [ ] Database Foundations
+* [ ] PHP & Databases with PDO
+* [ ] ~~Console Foundations~~
+* [ ] ~~Git Basics~~
+
+
+*[Library Topic - PHP](https://teamtreehouse.com/library/topic:php)
+
 *[Topics to Learn in General](https://teamtreehouse.com/library)
 
 :tada: :ok_woman: :confetti_ball: 
