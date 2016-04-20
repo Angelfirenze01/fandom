@@ -1,6 +1,6 @@
 ## To Do
 
-*Courses to Complete - Web Design (HTML5/CSS3*
+*Courses to Complete - Web Design (HTML5/CSS3)*
 
 * [ ] ~~Beginning HTML and CSS~~
 * [ ] ~~HTML First~~
@@ -70,6 +70,30 @@
 
 
 *[Library Topic - PHP](https://teamtreehouse.com/library/topic:php)
+
+*Course to Complete - Front-End Web Development*
+* [ ] ~~How to Make a Website~~
+* [ ] CSS Basics
+* [ ] Javascript Basics
+* [ ] CSS Layout Basics
+* [ ] Responsive Layouts
+* [ ] CSS Flexbox Layout
+* [ ] ~~HTML Forms~~
+* [ ] Javascript Loops, Arrays, and Objects
+* [ ] CSS Selectors
+* [ ] JQuery Basics
+* [ ] ~~HTML Tables~~
+* [ ] Interactive Web Pages with Javascript
+* [ ] HTML Video and Audio
+* [ ] AJAX Basics
+* [ ] Object-Oriented JavaScript
+* [ ] Accessibility
+* [ ] Website Optimization
+* [ ] ~~Console Foundations~~
+* [ ] ~~Git Basics~~
+* [ ] Front-End Performance Optimization
+
+*[Library Topic - Front-End](https://teamtreehouse.com/tracks/front-end-web-development)
 
 *[Topics to Learn in General](https://teamtreehouse.com/library)
 
