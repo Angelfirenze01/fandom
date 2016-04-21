@@ -2,9 +2,9 @@
 
 *Courses to Complete - Web Design (HTML5/CSS3)*
 
-* [ X] ~~Beginning HTML and CSS~~
-* [ X] ~~HTML First~~
-* [X ] ~~Creating HTML Content~~
+* [ ] ~~Beginning HTML and CSS~~
+* [ ] ~~HTML First~~
+* [ ] ~~Creating HTML Content~~
 * [ ] ~~CSS: Cascading Style Sheets~~
 * [ ] ~~Customizing Colors and Fonts~~
 * [ ] ~~Styling Web Pages and Navigation~~
