@@ -56,6 +56,8 @@
  
 *[Library Topic - Ruby](https://teamtreehouse.com/library/topic:ruby)
 
+<<<<<<< HEAD
+=======
 *Course to Complete - PHP*
 * [ ] ~~How to Make a Website~~
 * [ ] PHP Basics
