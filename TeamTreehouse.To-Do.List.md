@@ -134,7 +134,7 @@
 * [ ] Dates and Times in Python
 * [ ] Functional Python
 
-*[Topics to Learn: Python](https://teamtreehouse.com/library/topic:python)
+*[Library Topic: Python](https://teamtreehouse.com/library/topic:python)
 
 *[Topics to Learn in General](https://teamtreehouse.com/library)
 
