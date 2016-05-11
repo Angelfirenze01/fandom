@@ -56,7 +56,7 @@
  
 *[Library Topic - Ruby](https://teamtreehouse.com/library/topic:ruby)
 
-*Course to Complete - PHP*
+*Courses to Complete - PHP*
 * [ ] ~~How to Make a Website~~
 * [ ] PHP Basics
 * [ ] PHP Functions
@@ -70,7 +70,7 @@
 
 *[Library Topic - PHP](https://teamtreehouse.com/library/topic:php)
 
-*Course to Complete - Front-End Web Development*
+*Courses to Complete - Front-End Web Development*
 * [ ] ~~How to Make a Website~~
 * [ ] CSS Basics
 * [ ] Javascript Basics
@@ -93,6 +93,46 @@
 * [ ] Front-End Performance Optimization
 
 *[Library Topic - Front-End](https://teamtreehouse.com/tracks/front-end-web-development)
+
+*Courses to Complete - C#*
+* [ ] Object-Oriented Programming
+* [ ] Methods
+* [ ] Inheritance
+* [ ] Encapsulation and Arrays
+* [ ] Encapsulation with Properties
+* [ ] Loops and Final Touches
+
+*[Library Topic - C#](https://teamtreehouse.com/library/topic:csharp)
+
+*Courses to Complete - Python*
+* [ ] Python Basics
+* [ ] Object-Oriented Python
+* [ ] Python Collections
+* [ ] Write Better Python
+* [ ] Python Collections
+* [ ] Setting Up a Local Python Environment (Mac)
+* [ ] Workshop - Using the Requests Library
+* [ ] Workshop - Image Manipulation with Python
+* [ ] Workshop - PyCharm
+* [ ] Workshop - Using the Request Library
+* [ ] Python File I/O
+* [ ] CSV and JSON in Python
+* [ ] Flask REST API
+* [ ] Customizing the Django Admin
+* [ ] Django ORM
+* [ ] Customizing Django Templates
+* [ ] Tkinter
+* [ ] Workshop - Python Decorators
+* [ ] Python Comprehensions
+* [ ] Python Testing
+* [ ] Data Science Basics
+* [ ] Build a Social Network with Flask
+* [ ] Using Databases in Python
+* [ ] Regular Expressions in Python
+* [ ] Functional Programming with Python
+* [ ] Flask Basics
+* [ ] Dates and Times in Python
+* [ ] Functional Python
 
 *[Topics to Learn in General](https://teamtreehouse.com/library)
 
