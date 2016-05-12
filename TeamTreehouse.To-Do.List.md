@@ -140,4 +140,4 @@
 
 :tada: :ok_woman: :confetti_ball: 
 
-cc: @gopixelsgo @eacarlson
+cc: @gopixelsgo @eacarlson @natashamre
