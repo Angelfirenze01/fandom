@@ -3,7 +3,7 @@ body {
 	margin: 0;
 }
 
-header {
+.main-header {
 	background-color: ff8d00;
 }
 
@@ -20,3 +20,19 @@ h3 {
 	font-size: 20px;
 	color: #48525c;
 }
+
+.primary-content {
+	text-align: center;
+}
+
+.secondary-content {
+	border-top: 2px solid #878787;
+}
+
+#main-footer{
+	padding-top: 60px;
+	padding-bottom: 60px;
+	border-bottom: solid 10px #ff8d00;
+}
+
+
