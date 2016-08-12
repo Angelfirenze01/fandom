@@ -1,3 +1,12 @@
+/* An asterisk is a universal selector: *; 
+
+* {
+	margin: 0;
+	pdding: 0;
+	color: #f00;
+}
+*/
+
 /* Type Selectors */
 
 /*
